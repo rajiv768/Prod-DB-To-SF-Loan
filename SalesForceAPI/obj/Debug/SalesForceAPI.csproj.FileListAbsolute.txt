@@ -1,0 +1,44 @@
+D:\Projects\SalesForceAPI\SalesForceAPI\bin\Debug\SalesForceAPI.exe.config
+D:\Projects\SalesForceAPI\SalesForceAPI\bin\Debug\SalesForceAPI.exe
+D:\Projects\SalesForceAPI\SalesForceAPI\bin\Debug\SalesForceAPI.pdb
+D:\Projects\SalesForceAPI\SalesForceAPI\obj\Debug\SalesForceAPI.exe
+D:\Projects\SalesForceAPI\SalesForceAPI\obj\Debug\SalesForceAPI.pdb
+D:\Projects\SalesForceAPI\SalesForceAPI\obj\Debug\SalesForceAPI.csprojResolveAssemblyReference.cache
+D:\Projects\SalesForceAPI_Test\SalesForceAPI\bin\Debug\SalesForceAPI.exe.config
+D:\Projects\SalesForceAPI_Test\SalesForceAPI\obj\Debug\SalesForceAPI.exe
+D:\Projects\SalesForceAPI_Test\SalesForceAPI\obj\Debug\SalesForceAPI.pdb
+D:\Projects\SalesForceAPI_Test\SalesForceAPI\bin\Debug\SalesForceAPI.exe
+D:\Projects\SalesForceAPI_Test\SalesForceAPI\bin\Debug\SalesForceAPI.pdb
+D:\Projects\SalesForceAPI_Test\SalesForceAPI\obj\Debug\SalesForceAPI.csprojResolveAssemblyReference.cache
+D:\Projects\SalesForceAPI_Test2\SalesForceAPI\bin\Debug\SalesForceAPI.exe.config
+D:\Projects\SalesForceAPI_Test2\SalesForceAPI\bin\Debug\SalesForceAPI.exe
+D:\Projects\SalesForceAPI_Test2\SalesForceAPI\bin\Debug\SalesForceAPI.pdb
+D:\Projects\SalesForceAPI_Test2\SalesForceAPI\obj\Debug\SalesForceAPI.csproj.ResolveComReference.cache
+D:\Projects\SalesForceAPI_Test2\SalesForceAPI\obj\Debug\SalesForceAPI.exe
+D:\Projects\SalesForceAPI_Test2\SalesForceAPI\obj\Debug\SalesForceAPI.pdb
+D:\Projects\SalesForceAPI_Test2\SalesForceAPI\obj\Debug\SalesForceAPI.csprojResolveAssemblyReference.cache
+D:\Projects\SalesForceAPI_Test3\SalesForceAPI\bin\Debug\SalesForceAPI.exe.config
+D:\Projects\SalesForceAPI_Test3\SalesForceAPI\obj\Debug\SalesForceAPI.csproj.ResolveComReference.cache
+D:\Projects\SalesForceAPI_Test3\SalesForceAPI\obj\Debug\SalesForceAPI.exe
+D:\Projects\SalesForceAPI_Test3\SalesForceAPI\obj\Debug\SalesForceAPI.pdb
+D:\Projects\SalesForceAPI_Test3\SalesForceAPI\bin\Debug\SalesForceAPI.exe
+D:\Projects\SalesForceAPI_Test3\SalesForceAPI\bin\Debug\SalesForceAPI.pdb
+D:\Projects\SalesForceAPI_Test3\SalesForceAPI\obj\Debug\SalesForceAPI.csprojResolveAssemblyReference.cache
+D:\Projects\Test DB To SCF\SalesForceAPI\bin\Debug\SalesForceAPI.exe.config
+D:\Projects\Test DB To SCF\SalesForceAPI\obj\Debug\SalesForceAPI.csproj.ResolveComReference.cache
+D:\Projects\Test DB To SCF\SalesForceAPI\obj\Debug\SalesForceAPI.exe
+D:\Projects\Test DB To SCF\SalesForceAPI\obj\Debug\SalesForceAPI.pdb
+D:\Projects\Prod DB To SF\SalesForceAPI\bin\Debug\SalesForceAPI.exe.config
+D:\Projects\Prod DB To SF\SalesForceAPI\obj\Debug\SalesForceAPI.csproj.ResolveComReference.cache
+D:\Projects\Prod DB To SF\SalesForceAPI\obj\Debug\SalesForceAPI.exe
+D:\Projects\Prod DB To SF\SalesForceAPI\obj\Debug\SalesForceAPI.pdb
+D:\Projects\Prod DB To SF\SalesForceAPI\bin\Debug\SalesForceAPI.exe
+D:\Projects\Prod DB To SF\SalesForceAPI\bin\Debug\SalesForceAPI.pdb
+D:\Projects\Prod DB To SF\SalesForceAPI\obj\Debug\SalesForceAPI.csprojResolveAssemblyReference.cache
+D:\Projects\Prod DB To SF Loan\SalesForceAPI\bin\Debug\SalesForceAPI.exe.config
+D:\Projects\Prod DB To SF Loan\SalesForceAPI\bin\Debug\SalesForceAPI.exe
+D:\Projects\Prod DB To SF Loan\SalesForceAPI\bin\Debug\SalesForceAPI.pdb
+D:\Projects\Prod DB To SF Loan\SalesForceAPI\obj\Debug\SalesForceAPI.csprojResolveAssemblyReference.cache
+D:\Projects\Prod DB To SF Loan\SalesForceAPI\obj\Debug\SalesForceAPI.csproj.ResolveComReference.cache
+D:\Projects\Prod DB To SF Loan\SalesForceAPI\obj\Debug\SalesForceAPI.exe
+D:\Projects\Prod DB To SF Loan\SalesForceAPI\obj\Debug\SalesForceAPI.pdb

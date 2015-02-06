@@ -1,0 +1,6 @@
+D:\Projects\Prod DB To SF Loan\SalesForceAPI\bin\Debug\SalesForceAPI.exe.config
+D:\Projects\Prod DB To SF Loan\SalesForceAPI\bin\Debug\SalesForceAPI.exe
+D:\Projects\Prod DB To SF Loan\SalesForceAPI\bin\Debug\SalesForceAPI.pdb
+D:\Projects\Prod DB To SF Loan\SalesForceAPI\obj\Debug\Prod DB To SF Loan.csproj.ResolveComReference.cache
+D:\Projects\Prod DB To SF Loan\SalesForceAPI\obj\Debug\SalesForceAPI.exe
+D:\Projects\Prod DB To SF Loan\SalesForceAPI\obj\Debug\SalesForceAPI.pdb
